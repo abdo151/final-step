@@ -162,7 +162,7 @@ header .container .links ul li a {
 /* end header */
 /* start landing */
  .landing {
-    background-image: url(/images/abu-dhabi-grand-mosque-black-and-white-delphimages-photo-creations.jpg);
+    background-image: url(/final-step/images/abu-dhabi-grand-mosque-black-and-white-delphimages-photo-creations.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
